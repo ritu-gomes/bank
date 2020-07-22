@@ -1,0 +1,25 @@
+.submit-area{
+    text-transform: capitalize;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px grey;
+}
+#transaction{
+    display: none;
+}
+.diposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.diposite,.withdraw,.balance{
+    text-transform: capitalize;
+    color: #ffffff;
+    margin: 0 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
